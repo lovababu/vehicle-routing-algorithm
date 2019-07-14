@@ -1,0 +1,11 @@
+SerialNumber,Type,City,Latitude,Longitude,Fuel
+Depot,Tank,IndiraNagar,12.968790,77.641870,5
+CAT00001,Truck,Yeswanthpur,13.02542,77.543823,10
+CAT00002,Dozer,Krishnarajapura,13.00629,77.71747,25
+CAT00003,Scrapper,Malleswaram,13.0105,77.568909,39
+CAT00004,WheelLoader,Kadugudi,13.00627,77.758408,45
+CAT00005,Truck,Mahadevapura,13.06479,77.323647,31
+CAT00006,Crane,Whitefield,12.9698,77.749947,65
+CAT00007,Loader,Marathahalli,12.98299,77.585098,19
+CAT00008,Truck,Koramangala,13.29186,77.751808,30
+CAT00009,Dozer,Jayanagar,12.86916,74.869217,59
